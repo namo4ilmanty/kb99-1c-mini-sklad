@@ -96,6 +96,7 @@
 				</InputField>
 				<InputField name="ТоварыСумма" id="35">
 					<DataPath>Объект.Товары.Сумма</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыСуммаКонтекстноеМеню" id="36"/>
